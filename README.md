@@ -1,2 +1,2 @@
 # project-templates-aspnetcore
-爱航-asp.net core模版
+小航书-asp.net core模版
